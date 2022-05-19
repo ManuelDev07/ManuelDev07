@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+    <h1 align="center"> <img src="https://user-images.githubusercontent.com/99824291/169396595-2884d3ed-5c78-4c89-87ce-a0746ee50f63.gif" width="30px" /> Hello World! Welcome to my Github Profile :D <img width="50px" src="https://user-images.githubusercontent.com/99824291/169398439-5b266df5-fa2f-4dca-becf-39b1a9ac81ad.gif"/> </h1>
+    <img src="https://user-images.githubusercontent.com/99824291/169394818-cd13dfa4-f179-434d-b949-e918a432fee0.gif">
+    <p>I'm currently a <strong>Python Developer</strong> and learning the area of <strong>Data Analysis.</strong></p>
+    <p>I'm interested in <strong>Backend development</strong></p>
+</div>
 
-<!--
-**ManuelDev07/ManuelDev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>You can reach me on:</h2>
 
-Here are some ideas to get you started:
+<h3>
+<a href="https://www.instagram.com/manuelb0507/" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397143-8af11aa7-61b4-4782-b852-c76cd4c3fa7d.png"/></a>
+<a href="mailto:manuelbayona07@gmail.com" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397668-25d916fd-a56e-4ecb-a4cf-ea1de8f1567f.png"/></a>
+<a href="https://www.linkedin.com/in/manuel-bayona-526ba6239/" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397841-ffd2c96e-3d4a-4326-84ce-3d69099a120b.png"/></a>
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2><img width="30px" src="https://user-images.githubusercontent.com/99824291/169399736-9183014a-35dc-4fff-aab4-f5d4706eff16.gif"/>About me: </h2>
+
+<p>I'm a Electronic engineering student, working as a Python Developer. I am an apprentice looking for new technologies and programming techniques, having a great interest in programming focused on the area of Backend development.</p>
+<p>I am currently studying and practicing as a self taught programmer.</p>
+
+<h2><img width="30px" src="https://user-images.githubusercontent.com/99824291/169399742-63e85d4e-1553-4a54-b99e-463f63862e66.gif"/>Technical Skills: </h2>
+<ul>
+  <li>HTML5 </li>
+  <li>CSS3</li>
+  <li>Python</li>
+  <li>SQL (MySQL, PostgreSQL)</li>
+</ul>
