@@ -15,8 +15,8 @@
 
 <h2><img width="30px" src="https://user-images.githubusercontent.com/99824291/169399736-9183014a-35dc-4fff-aab4-f5d4706eff16.gif"/>About me: </h2>
 
-<p>I'm a Electronic engineering student, working as a Python Developer. I am an apprentice looking for new technologies and programming techniques, having a great interest in programming focused on the area of Backend development. I like programming and play videogames... a lot.</p>
-<p>I am currently studying and practicing as a self taught programmer and i'm gonna use my profile to save some projects that i make in my free time.</p>
+<p>I'm a Electronic engineering student, working as a Python Developer. I am an apprentice looking for new technologies and programming techniques, having a great interest in programming focused on the area of Backend development. I like programming and play videogames... a lot🎮🕹.</p>
+<p>I am currently studying and practicing as a self taught programmer. I'm gonna use my profile to save some projects that i make in my free time.</p>
 
 <h2><img width="30px" src="https://user-images.githubusercontent.com/99824291/169399742-63e85d4e-1553-4a54-b99e-463f63862e66.gif"/>Technical Skills: </h2>
 <ul>
