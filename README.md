@@ -24,4 +24,5 @@
   <li>CSS3</li>
   <li>Python</li>
   <li>SQL (MySQL, PostgreSQL)</li>
+  <li>Git</li>
 </ul>
