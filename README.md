@@ -2,7 +2,6 @@
     <h1 align="center"> <img src="https://user-images.githubusercontent.com/99824291/169396595-2884d3ed-5c78-4c89-87ce-a0746ee50f63.gif" width="30px" /> Hello World! Welcome to my Github Profile :D <img width="50px" src="https://user-images.githubusercontent.com/99824291/169398439-5b266df5-fa2f-4dca-becf-39b1a9ac81ad.gif"/> </h1>
     <img src="https://user-images.githubusercontent.com/99824291/169394818-cd13dfa4-f179-434d-b949-e918a432fee0.gif">
     <p>I'm currently a <strong>Python Developer</strong> and learning the area of <strong>Data Science.</strong></p>
-    <p>I'm interested in <strong>Backend development</strong></p>
 </div>
 
 <h2>You can reach me on:</h2>
