@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center"> <img src="https://user-images.githubusercontent.com/99824291/169396595-2884d3ed-5c78-4c89-87ce-a0746ee50f63.gif" width="30px" /> Hello World! Welcome to my Github Profile :D <img width="50px" src="https://user-images.githubusercontent.com/99824291/169398439-5b266df5-fa2f-4dca-becf-39b1a9ac81ad.gif"/> </h1>
     <img src="https://user-images.githubusercontent.com/99824291/169394818-cd13dfa4-f179-434d-b949-e918a432fee0.gif">
-    <p>I'm currently a <strong>Python Developer</strong> and learning the area of <strong>Data Science.</strong></p>
+    <p>I'm currently a <strong>Python Developer</strong> and learning the area of <strong>Backend Development.</strong></p>
 </div>
 
 <h2>You can reach me on:</h2>
@@ -14,7 +14,7 @@
 
 <h2><img width="30px" src="https://user-images.githubusercontent.com/99824291/169399736-9183014a-35dc-4fff-aab4-f5d4706eff16.gif"/>About me: </h2>
 
-<p>I'm a Electronic engineering student, working as a Python Developer. I am an apprentice looking for new technologies and programming techniques, having a great interest in programming focused on the area of Backend development.</p>
+<p>I'm a Electronic engineering student, working as a Python Developer. I am an apprentice looking for new technologies and programming techniques, having a great interest in programming focused on the area of Data Engineer.</p>
 
 <h2><img width="30px" src="https://user-images.githubusercontent.com/99824291/169399742-63e85d4e-1553-4a54-b99e-463f63862e66.gif"/>Technical Skills: </h2>
 <ul>
