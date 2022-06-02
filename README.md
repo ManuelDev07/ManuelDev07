@@ -23,4 +23,5 @@
   <li>Python</li>
   <li>SQL (MySQL, PostgreSQL)</li>
   <li>Git</li>
+  <li>Desarrollo y Consumo de APIs</li>
 </ul>
