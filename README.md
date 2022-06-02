@@ -20,8 +20,7 @@
 <ul>
   <li>HTML5 </li>
   <li>CSS3</li>
-  <li>Python</li>
+  <li>Python (Django)</li>
   <li>SQL (MySQL, PostgreSQL)</li>
   <li>Git</li>
-  <li>Desarrollo y Consumo de APIs</li>
 </ul>
