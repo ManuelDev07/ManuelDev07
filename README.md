@@ -12,11 +12,11 @@
 <a href="https://www.linkedin.com/in/manuel-bayona-526ba6239/" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397841-ffd2c96e-3d4a-4326-84ce-3d69099a120b.png"/></a>
 </h3>
 
-<h2><img width="20px" src="https://user-images.githubusercontent.com/99824291/169399736-9183014a-35dc-4fff-aab4-f5d4706eff16.gif"/>About me: </h2>
+<h2><img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169399736-9183014a-35dc-4fff-aab4-f5d4706eff16.gif"/>About me: </h2>
 
 <p>I'm a Electronic engineering student, working as a Python Developer. I am an apprentice looking for new technologies and programming techniques, having a great interest in programming focused on the area of Data Engineer.</p>
 
-<h2><img width="30px" src="https://user-images.githubusercontent.com/99824291/169399742-63e85d4e-1553-4a54-b99e-463f63862e66.gif"/>Technical Skills: </h2>
+<h2><img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169399742-63e85d4e-1553-4a54-b99e-463f63862e66.gif"/>Technical Skills: </h2>
 <ul>
   <li>HTML5 </li>
   <li>CSS3</li>
