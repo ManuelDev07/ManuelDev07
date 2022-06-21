@@ -25,4 +25,4 @@
   <li>Git</li>
 </ul>
 
-<i margin-left="50%" >I'm gonna use this profile to save my progress and some projects that i'll make in my free time.</i>
+                    <i>I'm gonna use this profile to save my progress and some projects that i'll make in my free time.</i>
