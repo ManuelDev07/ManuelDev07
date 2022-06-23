@@ -22,6 +22,7 @@
   <li>CSS3</li>
   <li>Python (Django & Flask)</li>
   <li>SQL (MySQL, PostgreSQL)</li>
+  <li>NoSQL (MongoDB)</li>
   <li>Git</li>
 </ul>
 
