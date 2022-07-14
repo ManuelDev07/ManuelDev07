@@ -24,6 +24,7 @@
   <li>SQL (MySQL, PostgreSQL)</li>
   <li>NoSQL (MongoDB)</li>
   <li>Git</li>
+  <li>Docker</li>
 </ul>
 
 <i>I'm gonna use this profile to save my progress and some projects that i'll make in my free time.</i>
