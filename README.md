@@ -14,7 +14,7 @@
 
 <h2><img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169399736-9183014a-35dc-4fff-aab4-f5d4706eff16.gif"/>About me: </h2>
 
-<pI am a student of Electronic Engineering. I am passionate about code in search of new technologies and programming techniques and their application in the workplace, I love the Backend area, being able to support and develop together with other people and i'll be delighted and especially motivated to work in a prestigious company in the IT sector and willing to continue learning and expanding my knowledge in this sector.</p>
+<p>I am a student of Electronic Engineering. I am passionate about code in search of new technologies and programming techniques and their application in the workplace, I love the Backend area, being able to support and develop together with other people and i'll be delighted and especially motivated to work in a prestigious company in the IT sector and willing to continue learning and expanding my knowledge in this sector.</p>
 
 <h2><img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169399742-63e85d4e-1553-4a54-b99e-463f63862e66.gif"/>Technical Skills: </h2>
 <ul>
