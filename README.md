@@ -22,7 +22,7 @@
   <li>CSS3</li>
   <li>Python (Django & Flask)</li>
   <li>SQL (MySQL, PostgreSQL)</li>
-  <li>NoSQL (MongoDB)</li>
+  <li>NoSQL (learning MongoDB) </li>
   <li>Git</li>
   <li>Docker (still learning🥵)</li>
 </ul>
