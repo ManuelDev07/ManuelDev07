@@ -7,7 +7,6 @@
 <h2>You can reach me on:</h2>
 
 <h3>
-<a href="https://www.instagram.com/manuelb0507/" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397143-8af11aa7-61b4-4782-b852-c76cd4c3fa7d.png"/></a>
 <a href="mailto:manudesarrolla07@gmail.com" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397668-25d916fd-a56e-4ecb-a4cf-ea1de8f1567f.png"/></a>
 <a href="https://www.linkedin.com/in/manuel-bayona-526ba6239/" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397841-ffd2c96e-3d4a-4326-84ce-3d69099a120b.png"/></a>
 </h3>
