@@ -19,7 +19,7 @@
 <ul>
   <li>HTML5 </li>
   <li>CSS3</li>
-  <li>Python (Django, DRF & Flask)</li>
+  <li>Python (Django, DRF, FastAPI & Flask)</li>
   <li>SQL (MySQL, PostgreSQL)</li>
   <li>NoSQL (MongoDB) </li>
   <li>Git</li>
