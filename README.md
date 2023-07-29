@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center"> <img width="30px" height="30px" src="https://user-images.githubusercontent.com/99824291/169396595-2884d3ed-5c78-4c89-87ce-a0746ee50f63.gif"/> Hello World! Welcome to my Github Profile :D <img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169398439-5b266df5-fa2f-4dca-becf-39b1a9ac81ad.gif"/> </h1>
-  <p>I'm currently a <strong>Python Developer</strong> and specializing in the area of <strong>Backend.</strong></p>
+  <h1 align="center"> <img width="30px" height="30px" src="https://user-images.githubusercontent.com/99824291/169396595-2884d3ed-5c78-4c89-87ce-a0746ee50f63.gif"/> Hello World! :D <img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169398439-5b266df5-fa2f-4dca-becf-39b1a9ac81ad.gif"/> </h1>
+  <p>I'm currently a <strong>Python Developer</strong> and focused on the <strong>Backend area.</strong></p>
 </div>
 
 <h2>You can reach me on:</h2>
