@@ -1,29 +1,21 @@
 <div align="center">
-    <h1 align="center"> <img width="30px" height="30px" src="https://user-images.githubusercontent.com/99824291/169396595-2884d3ed-5c78-4c89-87ce-a0746ee50f63.gif"/> Hello World! Welcome to my Github Profile :D <img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169398439-5b266df5-fa2f-4dca-becf-39b1a9ac81ad.gif"/> </h1>
-    <img src="https://user-images.githubusercontent.com/99824291/169394818-cd13dfa4-f179-434d-b949-e918a432fee0.gif">
-    <p>I'm currently a <strong>Python Developer</strong> and specializing in the area of <strong>Backend.</strong></p>
+  <h1 align="center"> <img width="30px" height="30px" src="https://user-images.githubusercontent.com/99824291/169396595-2884d3ed-5c78-4c89-87ce-a0746ee50f63.gif"/> Hello World! Welcome to my Github Profile :D <img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169398439-5b266df5-fa2f-4dca-becf-39b1a9ac81ad.gif"/> </h1>
+  <p>I'm currently a <strong>Python Developer</strong> and specializing in the area of <strong>Backend.</strong></p>
 </div>
 
 <h2>You can reach me on:</h2>
-
 <h3>
-<a href="mailto:manudesarrolla07@gmail.com" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397668-25d916fd-a56e-4ecb-a4cf-ea1de8f1567f.png"/></a>
-<a href="https://www.linkedin.com/in/manuel-bayona-ramirez-c05j07a2000/" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397841-ffd2c96e-3d4a-4326-84ce-3d69099a120b.png"/></a>
+  <a href="mailto:manudesarrolla07@gmail.com" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397668-25d916fd-a56e-4ecb-a4cf-ea1de8f1567f.png"/></a>
+  <a href="https://www.linkedin.com/in/manuel-bayona-ramirez-c05j07a2000/" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397841-ffd2c96e-3d4a-4326-84ce-3d69099a120b.png"/></a>
 </h3>
 
-<h2><img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169399736-9183014a-35dc-4fff-aab4-f5d4706eff16.gif"/>About me: </h2>
-
-<p>I am a student of Electronic Engineering. I am passionate about code in search of new technologies and programming techniques and their application in the workplace, I love the Backend area, being able to support and develop together with other people and i'll be delighted and especially motivated to work in a prestigious company in the IT sector and willing to continue learning and expanding my knowledge in this sector.</p>
-
 <h2><img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169399742-63e85d4e-1553-4a54-b99e-463f63862e66.gif"/>Technical Skills: </h2>
-<ul>
-  <li>HTML5 </li>
-  <li>CSS3</li>
-  <li>Python (Django, DRF, FastAPI & Flask)</li>
-  <li>SQL (MySQL, PostgreSQL)</li>
-  <li>NoSQL (MongoDB) </li>
-  <li>Git</li>
-  <li>Docker</li>
-</ul>
-
-<i>I'm gonna use this profile to save my progress and some projects that i'll make in my free time.</i>
+<section>
+  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/825c74db-f468-486d-825b-01bfb4cccac0.png"/>
+  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/4d94a818-7d17-44c3-90b0-790b08adf3ce.png"/>
+  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/7f5bc46e-1589-4def-be05-bac5de61576f.png"/>
+  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/04a5cc19-6f15-49f7-9e6a-0105962da9b9.png"/>
+  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/22fca2e9-3474-46c4-9eb4-fa3a325794bc.png"/>
+  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/7bc2b9cf-0a4c-495c-8805-38b31090ae71.png"/>
+  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/7c19afad-96d3-4d5a-9cf7-4f7ad194db0a.png"/>
+</section>
