@@ -11,11 +11,11 @@
 
 <h2><img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169399742-63e85d4e-1553-4a54-b99e-463f63862e66.gif"/>Technical Skills: </h2>
 <section>
-  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/825c74db-f468-486d-825b-01bfb4cccac0.png"/>
-  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/4d94a818-7d17-44c3-90b0-790b08adf3ce.png"/>
-  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/7f5bc46e-1589-4def-be05-bac5de61576f.png"/>
-  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/04a5cc19-6f15-49f7-9e6a-0105962da9b9.png"/>
-  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/22fca2e9-3474-46c4-9eb4-fa3a325794bc.png"/>
-  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/7bc2b9cf-0a4c-495c-8805-38b31090ae71.png"/>
-  <img width="50px" height="50px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/7c19afad-96d3-4d5a-9cf7-4f7ad194db0a.png"/>
+  <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/825c74db-f468-486d-825b-01bfb4cccac0.png"/>
+  <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/4d94a818-7d17-44c3-90b0-790b08adf3ce.png"/>
+  <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/7f5bc46e-1589-4def-be05-bac5de61576f.png"/>
+  <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/04a5cc19-6f15-49f7-9e6a-0105962da9b9.png"/>
+  <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/22fca2e9-3474-46c4-9eb4-fa3a325794bc.png"/>
+  <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/7bc2b9cf-0a4c-495c-8805-38b31090ae71.png"/>
+  <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/7c19afad-96d3-4d5a-9cf7-4f7ad194db0a.png"/>
 </section>
