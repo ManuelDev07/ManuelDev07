@@ -18,4 +18,5 @@
   <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/22fca2e9-3474-46c4-9eb4-fa3a325794bc.png"/>
   <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/7bc2b9cf-0a4c-495c-8805-38b31090ae71.png"/>
   <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/7c19afad-96d3-4d5a-9cf7-4f7ad194db0a.png"/>
+  <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/c44ee5f1-2080-4d2f-9b4f-dfa625571a6c.svg"/>
 </section>
