@@ -3,10 +3,10 @@
   <p>I'm currently a <strong>Python Developer</strong> and focused on the <strong>Backend area.</strong></p>
 </div>
 
-<h2>You can reach me on:</h2>
+<h2>You can contact me through:</h2>
 <h3>
   <a href="mailto:manudesarrolla07@gmail.com" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397668-25d916fd-a56e-4ecb-a4cf-ea1de8f1567f.png"/></a>
-  <a href="https://www.linkedin.com/in/manuel-bayona-ramirez-c05j07a2000/" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397841-ffd2c96e-3d4a-4326-84ce-3d69099a120b.png"/></a>
+  <a href="https://www.linkedin.com/in/manuel-alejandro-bayona-ramirez/?locale=en_US" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397841-ffd2c96e-3d4a-4326-84ce-3d69099a120b.png"/></a>
 </h3>
 
 <h2><img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169399742-63e85d4e-1553-4a54-b99e-463f63862e66.gif"/>Technical Skills: </h2>
