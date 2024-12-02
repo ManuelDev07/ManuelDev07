@@ -1,9 +1,9 @@
 <div align="center">
   <h1 align="center"> <img width="30px" height="30px" src="https://user-images.githubusercontent.com/99824291/169396595-2884d3ed-5c78-4c89-87ce-a0746ee50f63.gif"/> Hello World!<img width="50px" height="50px" src="https://user-images.githubusercontent.com/99824291/169398439-5b266df5-fa2f-4dca-becf-39b1a9ac81ad.gif"/> </h1>
-  <p>I'm currently a <strong>Python Developer</strong> and focused on the <strong>Backend area.</strong></p>
+  <p>I'm Manuel, an <strong>Web Developer</strong> and focused on the <strong>Backend area.</strong> with python specifically.</p>
 </div>
 
-<h2>You can contact me through:</h2>
+<h2>You can contact me at:</h2>
 <h3>
   <a href="mailto:manuelbayona07@gmail.com" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397668-25d916fd-a56e-4ecb-a4cf-ea1de8f1567f.png"/></a>
   <a href="https://www.linkedin.com/in/manuel-alejandro-bayona-ramirez/?locale=en_US" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/99824291/169397841-ffd2c96e-3d4a-4326-84ce-3d69099a120b.png"/></a>
