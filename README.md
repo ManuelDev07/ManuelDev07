@@ -21,8 +21,8 @@
   <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/c44ee5f1-2080-4d2f-9b4f-dfa625571a6c.svg"/>
   <img width="40px" height="40px" src="https://github.com/user-attachments/assets/1d13489d-893b-408d-93b5-eefe64bed6f4"/>
   <img width="40px" height="40px" src="https://github.com/user-attachments/assets/64a4cf2b-ff4f-4775-b33e-ee42bc61f443"/>
-  <img width="40px" height="40px" src="https://github.com/user-attachments/assets/577192db-7134-4199-b326-7343a248a01c"/>
-  <img width="40px" height="40px" src="https://github.com/user-attachments/assets/cbd17750-e344-46f6-b34e-4d7e9fb57af3"/>
+  <img width="40px" height="46px" src="https://github.com/user-attachments/assets/577192db-7134-4199-b326-7343a248a01c"/>
+  <img width="80px" height="40px" src="https://github.com/user-attachments/assets/cbd17750-e344-46f6-b34e-4d7e9fb57af3"/>
 
 </section>
 
