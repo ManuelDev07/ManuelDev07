@@ -20,6 +20,9 @@
   <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/7c19afad-96d3-4d5a-9cf7-4f7ad194db0a.png"/>
   <img width="40px" height="40px" src="https://github.com/ManuelDev07/ManuelDev07/assets/99824291/c44ee5f1-2080-4d2f-9b4f-dfa625571a6c.svg"/>
   <img width="40px" height="40px" src="https://github.com/user-attachments/assets/1d13489d-893b-408d-93b5-eefe64bed6f4"/>
+  <img width="40px" height="40px" src="https://github.com/user-attachments/assets/64a4cf2b-ff4f-4775-b33e-ee42bc61f443"/>
+  <img width="40px" height="40px" src="https://github.com/user-attachments/assets/577192db-7134-4199-b326-7343a248a01c"/>
+  <img width="40px" height="40px" src="https://github.com/user-attachments/assets/577192db-7134-4199-b326-7343a248a01c"/>
 </section>
 
 
